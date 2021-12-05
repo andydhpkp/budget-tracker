@@ -46,7 +46,7 @@
     "theme_color": "#ffffff",
     "background_color": "#01579b",
     "start_url": ".",
+    "display": "standalone",
     "description": "An app that allows you to set and track budget information.",
-    "orientation": "portrait",
-    "display": "standalone"
+    "orientation": "portrait"
 }
